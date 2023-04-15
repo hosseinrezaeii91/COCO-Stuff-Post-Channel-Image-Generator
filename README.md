@@ -3,6 +3,7 @@ In this dataset, we propose a flexible software that automatically transmits the
 
 
 References
+
 [1] H. Caesar, J. Uijlings, and V. Ferrari, “Coco-stuff: Thing and stuff classes in context,” in 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2018, pp. 1209–1218.
 [2] T.-Y. Lin, M. Maire, S. Belongie, J. Hays, P. Perona, D. Ramanan, P. Doll ́ar, and C. L. Zitnick, “Microsoft coco: Common objects in context,” in Computer Vision–ECCV 2014: 13th European Conference, Zurich, Switzerland, September 6-12, 2014, Proceedings, Part V 13. Springer, 2014, pp. 740–755.
 [3] H. Rezaei, Post-Channel Map Image Image Generator. Accessed, Feb. 2023. [Online]. Available: https://github.com/hosseinrezaeii91/COCO-Stuff-Post-Channel-Image-Generator, 2023.
