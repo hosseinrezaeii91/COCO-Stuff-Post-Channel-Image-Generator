@@ -1,6 +1,8 @@
 # COCO-Stuff-Post-Channel-Image-Generator
 In this dataset, we propose a flexible software that automatically transmits the semantic segmentation map images over an additive white Gaussian noise (AWGN) channel using binary phase-shift keying (BPSK). This software is beneficial in investigating the effect of channel noise on end-to-end image communication systems utilizing semantic concepts. The well-known polar codes are chosen as the channel coding scheme, with the flexibility of selecting any code rate and code length. The dataset selected for the task is the popular COCO-Stuff dataset [1], which is an augmented version of the COCO [2] dataset and contains $91$, different stuff classes. The output semantic map images corresponding to four different signal-to-noise ratios (SNRs) are generated to achieve a very small dataset, each containing a thousand images from the COCO-Stuff dataset [3]. While this paper utilizes the COCO-Stuff dataset as an example, it should be noted that the software is not confined to this particular dataset and can be leveraged for transmitting images from any other dataset as well.
 
+# How to use the software
+You need to creat a folder named "train2017" in the same directory as the software located, and then copy the target images to this folder. The name of the images must follow "000000000009.png" format, i.e. a name with 12 charachtors length and in "png" format. Therefore, the range of image's names could be between "000000000000" to "999999999999". This is the name format in the COCO-Stuff dataset and therefore, you do not need to rename the images if you are using the COCO-Stuff dataset.
 
 References
 
