@@ -7,7 +7,7 @@ You need to creat a folder named "train2017" in the same directory as the softwa
 # About the software
 The compiled Python version of the software is accessible on this webpage. Additionally, the software's executable file is available; nonetheless, it was not possible to upload it to this page due to its substantial size. If you require the executable file, kindly send us an email to below address.
 
-hossein.rezaei(at)oulu.fi;
+hossein.rezaei at oulu.fi;
 
 # References
 
